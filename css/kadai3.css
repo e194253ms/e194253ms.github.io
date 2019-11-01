@@ -20,9 +20,19 @@ h4{
     
 }
 
+p{
+    
+     color:darkseagreen;
+    
+    
+    
+    
+}
+
+
 body{
     background-image: url("../images/8c68ad706ed922a0aa1f205fb845d492_s.jpg");
-    background-repeat: no-repeat;
+    
     background-attachment: fixed;
     background-position: center;
 }
