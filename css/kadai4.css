@@ -1,0 +1,69 @@
+h1{
+    color:honeydew;
+    text-align: center;
+    background-color: black;
+    
+}
+
+
+.ganndamu {
+    color:gold;
+    text-align: center;
+    background-color:whitesmoke;
+    
+}
+
+.raitonoberu {
+    color:red;
+    text-align: center;
+    background-color:gold;
+    
+}
+
+.rinku {
+    color:aqua;
+    text-align: center;
+    background-color:forestgreen;
+    
+}
+
+table {
+    color:black;
+    text-align: center;
+    background-color:aquamarine;
+    
+}
+
+
+h4{
+     color:rebeccapurple;
+    
+    
+}
+
+p{
+    
+     color:darkseagreen;
+    
+        
+    
+    
+}
+
+
+
+body{
+    background-image: url("../images/01.jpg");
+    
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+ol{
+        
+         background-image: url("../images/depositphotos_207305828-stock-illustration-triangle-pattern-abstract-geometric-wallpaper.jpg");
+    
+        
+    }
+
